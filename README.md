@@ -1,9 +1,9 @@
 # ChatGPT 中文版：国内 ChatGPT镜像网站免费指南~（无限使用 GPT-4、GPT-4o、GPT-o1 和 GPT-o3，无需翻墙）【2025更新】
 
-> **更新时间：2025/07/02**            
+> **更新时间：2025/07/05**            
 
 **国内好用的 [ChatGPT 中文版](https://xsimplechat.com)，无需翻墙即可使用 GPT-4、o1、o3及多功能应用！**   
-本指南给用户提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://talk.lanjing.pro) 和**官网使用教程**，满足你在工作学习、日常生活中，全方面的需求~
+本指南给用户提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://gpt.lanjing.pro) 和**官网使用教程**，满足你在工作学习、日常生活中，全方面的需求~
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://talk.lanjing.pro) 是 OpenAI的 ChatGPT模型的中文优化版本，专为中文用户设计，提供更流畅、更精准的智能AI对话。特别适合国内用户：
+[**ChatGPT 中文版**](https://gpt.lanjing.pro) 是 OpenAI的 ChatGPT模型的中文优化版本，专为中文用户设计，提供更流畅、更精准的智能AI对话。特别适合国内用户：
 
 - **中文优化**：更流畅、更智能的中文对话能力，适合学习、办公和日常使用。
 - **无需翻墙**：国内直连，通过国内镜像网站使用~
@@ -34,7 +34,7 @@
 | 中文站网址                            | 支持模型                         | 稳定性 | 功能亮点                                                         |
 |---------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
 | **[xsimplechat.com](https://xsimplechat.com)** | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | 支持 ChatGPT 全模型，支持 AI 绘画、AI 助手、AI 插件，适合学生党和打工人 |
-| **[talk.lanjing.pro](https://talk.lanjing.pro)**  | GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，适合新手用户          |
+| **[gpt.lanjing.pro](https://gpt.lanjing.pro)**  | GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，适合新手用户          |
 | **[chat.lify.vip](https://chat.yixiaai.com)**     | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | 支持 o1、o3 和 R1 等全模型，支持 AI 写作、AI 编程、AI 办公，适应多种行业需求   |
 | **[chat.chatgpt-chinese.com](https://chat.lanjingai.org)** | GPT-4, GPT-4o, o1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini           | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
